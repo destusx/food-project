@@ -57,14 +57,6 @@ a {
   font-weight: 400;
 }
 
-.hide {
-  display: none;
-}
-
-.show {
-  display: block;
-}
-
 .fade {
   animation: fade 1s;
 }
@@ -643,4 +635,12 @@ a {
   display: block;
   width: 280px;
   margin: 0 auto;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
 }
